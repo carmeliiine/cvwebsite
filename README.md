@@ -1,8 +1,9 @@
 # cvwebsite
 
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Curiculum Vitae</title>
+    <font face="Century Gothic"><title>Curiculum Vitae</title></font><br>
   </head>
   
   <body>
