@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title>Curiculum Vitae Muharom Rusdiana D. A.</title>
+    <title>Curiculum Vitae</title>
  <style>
   .CV{
   width:500px;
@@ -12,6 +12,7 @@
   }
  </style>
   </head>
+  
   <body>
     <h1 class="CV"></h1>
     <h2>Data Pribadi</h2>
@@ -20,22 +21,22 @@
         <tr>
           <td width="25%">Nama Lengkap</td>
           <td width="1%">:</td>
-          <td>Muharom Rusdiana D. A.</td>
+          <td>Benedicta Christina Carmeline</td>
     <td rowspan="5" width="350px" align="left"><img src="me with rini sugianto.png" alt="Me with Rini Sugianto" title="Me with Rini Sugianto" height="200px" width="150px"></td>
         </tr>
         <tr>
           <td>Tempat, Tanggal Lahir</td>
           <td>:</td>
-          <td>Bogor, 14 july 1991</td>
+          <td>Tangerang, 8 Maret 2001</td>
         </tr>
         <tr>
           <td>Alamat</td>
           <td>:</td>
-          <td>Sindang Barang Indah E/15, Bogor</td>
+          <td>Jl. Cikuda no. 37, Cileles, Kec. Jatinangor, Kab.Sumedang, Jawa Barat</td>
         </tr>
      <td>Email</td>
           <td>:</td>
-          <td>aromdwiadmaja@gmail.com</td>
+          <td>carmeliiine@gmail.com</td>
         </tr>
       </tbody>
     </table>
