@@ -3,14 +3,6 @@
 <html>
   <head>
     <title>Curiculum Vitae</title>
- <style>
-  .CV{
-  width:500px;
-        height:120px;
-  top:10px;
-        background:transparent url(CV.png) no-repeat top left;
-  }
- </style>
   </head>
   
   <body>
