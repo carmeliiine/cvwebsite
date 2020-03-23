@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <font face="Century Gothic"><title>Curiculum Vitae</title></font><br>
+    <h1 style="font-family:verdana;">Curriculum Vitae</h1>
   </head>
   
   <body>
@@ -37,29 +37,29 @@
     <table width="800px">
       <tbody>
         <tr>
-          <td width="25%">2009 - Sekarang</td>
+          <td width="25%">2019 - Sekarang</td>
           <td width="1%">:</td>
-          <td>Universitas Gunadarma, Fakultas Ilmu Komputer Jurusan Sistem Informasi, Depok</td>
+          <td>Universitas Padjadjaran, Fakultas Ekonomi dan Bisnis</td>
         </tr>
         <tr>
-          <td>2006 - 2009</td>
+          <td>2016 - 2019</td>
           <td>:</td>
-          <td>SMAN 4 Bogor</td>
+          <td>SMA Santa Ursula BSD</td>
         </tr>
         <tr>
-          <td>2003 - 2006</td>
+          <td>2013 - 2016</td>
           <td>:</td>
-          <td>SMPN 4 Bogor</td>
+          <td>SMP Santa Ursula BSD</td>
         <tr>
-          <td>1997 - 2003</td>
+          <td>2007 - 2013</td>
           <td>:</td>
-          <td>SDN Panaragan 1, Bogor</td>
+          <td>SD Santa Urula BSD</td>
         </tr>
         </tr>
         <tr>
-          <td>1996 - 1997</td>
+          <td>2006 - 2007</td>
           <td>:</td>
-          <td>TK Alita, Bogor</td>
+          <td>TK Santa Ursula BSD</td>
         </tr>
       </tbody>
     </table>
